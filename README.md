@@ -3,12 +3,15 @@
 ### Champions:
 
 
-### Number of people per team: xx
+### Number of people per team: 
+xx
 
 
-### Anticipated workload: approx. xx hours per person, including the time for preparation of the presentation
+### Anticipated workload: 
+approx. xx hours per person, including the time for preparation of the presentation
 
-## Remote participation: ?
+## Remote participation: 
+?
 
 
 
