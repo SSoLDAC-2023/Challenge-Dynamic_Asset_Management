@@ -24,7 +24,7 @@ approx. xx hours per person, including the time for preparation of the presentat
 
 
 
-## Supplimentary resources:
+## Supplementary resources:
 
 
 
