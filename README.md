@@ -10,9 +10,6 @@ xx
 ### Anticipated workload: 
 approx. xx hours per person, including the time for preparation of the presentation
 
-## Remote participation: 
-?
-
 
 
 ## Challenge description:
