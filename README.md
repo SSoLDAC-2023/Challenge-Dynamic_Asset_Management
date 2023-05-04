@@ -51,15 +51,16 @@ To be prepared/cleaned still. A ‘use-case manual’ will be prepared that cont
 information translated in English. RDF-datasets will be prepared beforehand as well, so no time is lost on creating
 RDF data.
 
-## Supplementary Resources
 1. https://www.utrecht.nl/wonen-en-leven/verkeer/goederenvervoer/voertuigbeperkingen-en- goederenvervoerroutes/
 2. https://lokaleregelgeving.overheid.nl/CVDR609381
 3. https://www.utrecht.nl/wonen-en-leven/gezonde-leefomgeving/luchtkwaliteit/milieuzone/
 4. https://gu-geo.maps.arcgis.com/apps/webappviewer/index.html?id=4c5846a184fa4ea0b75505c39f692ea0
 5. https://opendata.rdw.nl/
-6. Supplementary resources
-7. https://www.tomtom.com/solutions/fleet-management-logistics/
-8. https://www.opentripmodel.org/
+
+## Supplementary Resources
+1. https://www.tomtom.com/solutions/fleet-management-logistics/
+2. https://www.opentripmodel.org/
+
 ## References
 https://www.researchgate.net/publication/356493956_Intelligent_Access_Policy_ensuring_the_right_vehicle
 _on_the_right_road_at_the_right_time
