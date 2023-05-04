@@ -25,26 +25,25 @@ should be presented in a manner so that the often-non-technical policy makers ca
 technologies provided by the semantic web stack can potentially offer a viable solution to set up the architecture
 and tooling necessary for such an accessibility system that supports the Municipality of Utrecht in decision
 making regarding their logistics.
-Research questions
+## Challenger Research questions
 Of course, this is not without difficulties. Often, the reality within (governmental) organizations is that data is
 scattered through different source systems, often only available in human-readable text formats and not
 structured according to one architecture, data model or ontology. Furthermore, knowledge about semantic web
 standards and linked data is scarce, so we should not expect the users to be able to read a Turtle file or to enter
 a SPARQL query. Therefore, the main research question is:
-How can we manage and visualize asset management data in the built environment using semantic web
+- How can we manage and visualize asset management data in the built environment using semantic web
 technology if some of this data is dynamic in time and location?
 
-Sub question 1: How can semantic web technologies be used to manage assets if some of the data is dynamic in
+- Sub question 1: How can semantic web technologies be used to manage assets if some of the data is dynamic in
 time and location?
-Sub question 2: Is it possible to automatically restrict vehicles from entering certain zones in the city? What are
+- Sub question 2: Is it possible to automatically restrict vehicles from entering certain zones in the city? What are
 the rules and requirements for this?
-Sub question 3: How can SHACL be implemented in the information model behind the tooling? Is it possible to
+- Sub question 3: How can SHACL be implemented in the information model behind the tooling? Is it possible to
 activate certain restrictions for trucks based on their time-stamp data?
-Sub question 4: What are the steps needed for aligning different sets of data that originate from several sources,
+- Sub question 4: What are the steps needed for aligning different sets of data that originate from several sources,
 including written text-based documents?
-Sub question 5: How can we visualize newly gained information that results from linking certain datasets? How
-can SPARQL and possibly OWL help with this and how does this work in a user-friendly manner?
-Sub question 6: In case of inferencing new information using OWL, how does this work in combination with
+- Sub question 5: How can we visualize newly gained information that results from linking certain datasets? How can SPARQL and possibly OWL help with this and how does this work in a user-friendly manner?
+- Sub question 6: In case of inferencing new information using OWL, how does this work in combination with
 SHACL restrictions? Open world vs. closed world?
 
 ## Datasets available
