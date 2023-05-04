@@ -3,12 +3,6 @@
 - Ellen van den Bersselaar, BIM-Connected
 - Challenge description
 
-## Number of people per team: 
-4-5
-
-## Anticipated workload:
-approx. 24 hours per person, including the time for preparation of the presentation
-
 ## Challenge description:
 Due to (1) the increasing number of inhabitants in city centres, (2) the growing need for transport related to e-
 commerce and (3) a rising number of restrictions such as environmental zones, there is an increasing amount of
