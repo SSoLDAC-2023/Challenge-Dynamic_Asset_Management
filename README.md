@@ -51,7 +51,7 @@ To be prepared/cleaned still. A ‘use-case manual’ will be prepared that cont
 information translated in English. RDF-datasets will be prepared beforehand as well, so no time is lost on creating
 RDF data.
 
-1. https://www.utrecht.nl/wonen-en-leven/verkeer/goederenvervoer/voertuigbeperkingen-en- goederenvervoerroutes/
+1. https://www.utrecht.nl/wonen-en-leven/verkeer/goederenvervoer/voertuigbeperkingen-en-goederenvervoerroutes/
 2. https://lokaleregelgeving.overheid.nl/CVDR609381
 3. https://www.utrecht.nl/wonen-en-leven/gezonde-leefomgeving/luchtkwaliteit/milieuzone/
 4. https://gu-geo.maps.arcgis.com/apps/webappviewer/index.html?id=4c5846a184fa4ea0b75505c39f692ea0
