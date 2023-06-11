@@ -1,7 +1,6 @@
 # Challenge: Dynamic Asset Management
 ## Champions
 - Ellen van den Bersselaar, BIM-Connected
-- Challenge description
 
 ## Challenge description:
 Due to (1) the increasing number of inhabitants in city centres, (2) the growing need for transport related to e-
@@ -46,20 +45,10 @@ including written text-based documents?
 - Sub question 6: In case of inferencing new information using OWL, how does this work in combination with
 SHACL restrictions? Open world vs. closed world?
 
-## Datasets available
-To be prepared/cleaned still. A ‘use-case manual’ will be prepared that contains the necessary/most important
-information translated in English. RDF-datasets will be prepared beforehand as well, so no time is lost on creating
-RDF data.
+## Datasets and supplementary resources available
+In the document 'User Manual' a thorough description of all the datasets and supplementary resources is available.
 
-1. https://www.utrecht.nl/wonen-en-leven/verkeer/goederenvervoer/voertuigbeperkingen-en-goederenvervoerroutes/
-2. https://lokaleregelgeving.overheid.nl/CVDR609381
-3. https://www.utrecht.nl/wonen-en-leven/gezonde-leefomgeving/luchtkwaliteit/milieuzone/
-4. https://gu-geo.maps.arcgis.com/apps/webappviewer/index.html?id=4c5846a184fa4ea0b75505c39f692ea0
-5. https://opendata.rdw.nl/
-
-## Supplementary Resources
-1. https://www.tomtom.com/solutions/fleet-management-logistics/
-2. https://www.opentripmodel.org/
+*Please notice the chapter 'Challenge guidelines" which separates the challenge into manageable parts fitted to the content of the LDAC Summer School lectures.*
 
 ## References
 https://www.researchgate.net/publication/356493956_Intelligent_Access_Policy_ensuring_the_right_vehicle
