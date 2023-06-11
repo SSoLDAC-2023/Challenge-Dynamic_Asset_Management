@@ -1,0 +1,245 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+@prefix upc: <http://www.data.utrecht.nl/2023/camera-events#> .
+
+upc:7lzhtb a upc:Event ; 
+    upc:timestamp "2023-05-07T07:07:45"^^xsd:dateTime ;
+   upc:licencePlate "00BGV9" ;
+    upc:loadedWeight 49000 ;
+    upc:CAID "UTR-CM-518" .
+
+upc:zqhzyz a upc:Event ; 
+    upc:timestamp "2023-05-07T10:27:30"^^xsd:dateTime ;    
+    upc:licencePlate "00BHV8" ;
+    upc:loadedWeight 34800 ;
+    upc:CAID "UTR-CM-549" .
+
+upc:5hc5r0 a upc:Event ; 
+    upc:timestamp "2023-05-07T10:14:11"^^xsd:dateTime ;
+    upc:licencePlate "00BKG1" ;
+    upc:loadedWeight 7000 ;
+    upc:CAID "UTR-CM-577" .
+
+upc:5bygsg a upc:Event ; 
+    upc:timestamp "2023-05-07T11:20:46"^^xsd:dateTime ;
+    upc:licencePlate "00BLH4" ;
+    upc:loadedWeight 45500 ;
+    upc:CAID "UTR-CM-540" .
+
+upc:b0l1rr a upc:Event ; 
+    upc:timestamp "2023-05-07T10:54:08"^^xsd:dateTime ;
+    upc:licencePlate "00BNR4" ;
+    upc:loadedWeight 40000 ;
+    upc:CAID "UTR-CM-540" .
+
+upc:hw24t1 a upc:Event ; 
+    upc:timestamp "2023-05-07T08:54:17"^^xsd:dateTime ;
+    upc:licencePlate "00BPH1" ;
+    upc:loadedWeight 23799 ;
+    upc:CAID "UTR-CM-518" .
+
+upc:l78937 a upc:Event ; 
+    upc:timestamp "2023-05-07T10:40:49"^^xsd:dateTime ;
+    upc:licencePlate "00BPP7" ;
+    upc:loadedWeight 34987 ;
+    upc:CAID "UTR-CM-537" .
+
+upc:6c019r a upc:Event ; 
+    upc:timestamp "2023-05-07T08:40:58"^^xsd:dateTime ;
+    upc:licencePlate "00BRT7" ;
+    upc:loadedWeight 42400 ;
+    upc:CAID "UTR-CM-547" .
+
+upc:984r61 a upc:Event ; 
+    upc:timestamp "2023-05-07T11:07:27"^^xsd:dateTime ;
+    upc:licencePlate "00BSF7" ;
+    upc:loadedWeight 30099 ;
+    upc:CAID "UTR-CM-501" .
+
+upc:96wwty a upc:Event ; 
+    upc:timestamp "2023-05-07T10:00:52"^^xsd:dateTime ;
+    upc:licencePlate "00BST2" ;
+    upc:loadedWeight 6000 ;
+    upc:CAID "UTR-CM-503" .
+
+upc:9x529a a upc:Event ; 
+    upc:timestamp "2023-05-07T09:34:14"^^xsd:dateTime ;
+    upc:licencePlate "01BFZ3" ;
+    upc:loadedWeight 17600 ;
+    upc:CAID "UTR-CM-518" .
+
+upc:t90z93 a upc:Event ; 
+    upc:timestamp "2023-05-07T09:07:36"^^xsd:dateTime ;
+    upc:licencePlate "00BBF8" ;
+    upc:loadedWeight 37950 ;
+    upc:CAID "UTR-CM-536" .
+
+upc:chiw2l a upc:Event ; 
+    upc:timestamp "2023-05-07T09:20:55"^^xsd:dateTime ;
+    upc:licencePlate "00BBV8" ;
+    upc:loadedWeight 48011 ;
+    upc:CAID "UTR-CM-541" .
+
+upc:sgzaiq a upc:Event ; 
+    upc:timestamp "2023-05-07T08:27:39"^^xsd:dateTime ;
+    upc:licencePlate "00BFP8" ;
+    upc:loadedWeight 12290 ;
+    upc:CAID "UTR-CM-543" .
+
+upc:9hmha5 a upc:Event ; 
+    upc:timestamp "2023-05-07T08:14:20"^^xsd:dateTime ;
+    upc:licencePlate "00BHK3" ;
+    upc:loadedWeight 43000 ;
+    upc:CAID "UTR-CM-542" .
+
+upc:56ht47 a upc:Event ; 
+    upc:timestamp "2023-05-07T08:01:01"^^xsd:dateTime ;
+    upc:licencePlate "00BJZ6" ;
+    upc:loadedWeight 54000 ;
+    upc:CAID "UTR-CM-576" .
+
+upc:54r2y5 a upc:Event ; 
+    upc:timestamp "2023-05-07T07:47:42"^^xsd:dateTime ;
+    upc:licencePlate "00BLN2" ;
+    upc:loadedWeight 39000 ;
+    upc:CAID "UTR-CM-506" .
+
+upc:gl9s0r a upc:Event ; 
+    upc:timestamp "2023-05-07T07:34:23"^^xsd:dateTime ;
+    upc:licencePlate "00BNN3" ;
+    upc:loadedWeight 41000 ;
+    upc:CAID "UTR-CM-506" .
+
+upc:zqwtt5 a upc:Event ; 
+    upc:timestamp "2023-05-07T07:21:04"^^xsd:dateTime ;
+    upc:licencePlate "00BRL2" ;
+    upc:loadedWeight 42200 ;
+    upc:CAID "UTR-CM-512" .
+
+upc:9bswrh a upc:Event ; 
+    upc:timestamp "2023-05-07T07:07:45"^^xsd:dateTime ;
+    upc:licencePlate "00BSK8" ;
+    upc:loadedWeight 10000 ;
+    upc:CAID "UTR-CM-511" .
+
+upc:7Bzitb a upc:Event ; 
+    upc:timestamp "2023-06-01T05:07:45"^^xsd:dateTime ;
+   upc:licencePlate "00BGV9" ;
+    upc:loadedWeight 49263 ;
+    upc:CAID "UTR-CM-518" .
+
+upc:zBhiyz a upc:Event ; 
+    upc:timestamp "2023-06-01T15:27:40"^^xsd:dateTime ;    
+    upc:licencePlate "00BHV8" ;
+    upc:loadedWeight 34263 ;
+    upc:CAID "UTR-CM-549" .
+
+upc:Bhi5r0 a upc:Event ; 
+    upc:timestamp "2023-06-01T15:14:41"^^xsd:dateTime ;
+    upc:licencePlate "00BKG1" ;
+    upc:loadedWeight 7263 ;
+    upc:CAID "UTR-CM-577" .
+
+upc:5Byisg a upc:Event ; 
+    upc:timestamp "2023-06-01T15:20:46"^^xsd:dateTime ;
+    upc:licencePlate "00BLH4" ;
+    upc:loadedWeight 45263 ;
+    upc:CAID "UTR-CM-540" .
+
+upcBbil1rr a upc:Event ; 
+    upc:timestamp "2023-06-01T15:54:48"^^xsd:dateTime ;
+    upc:licencePlate "00BNR4" ;
+    upc:loadedWeight 26300 ;
+    upc:CAID "UTR-CM-540" .
+
+upc:hB2it1 a upc:Event ; 
+    upc:timestamp "2023-06-01T05:54:47"^^xsd:dateTime ;
+    upc:licencePlate "00BPH1" ;
+    upc:loadedWeight 23263 ;
+    upc:CAID "UTR-CM-518" .
+
+upB:i78937 a upc:Event ; 
+    upc:timestamp "2023-06-01T15:40:49"^^xsd:dateTime ;
+    upc:licencePlate "00BPP7" ;
+    upc:loadedWeight 26397 ;
+    upc:CAID "UTR-CM-537" .
+
+upc:6B0i9r a upc:Event ; 
+    upc:timestamp "2023-06-01T05:40:48"^^xsd:dateTime ;
+    upc:licencePlate "00BRT7" ;
+    upc:loadedWeight 42263 ;
+    upc:CAID "UTR-CM-547" .
+
+upc:B8ir61 a upc:Event ; 
+    upc:timestamp "2023-06-01T15:07:47"^^xsd:dateTime ;
+    upc:licencePlate "00BSF7" ;
+    upc:loadedWeight 32639 ;
+    upc:CAID "UTR-CM-501" .
+
+upc:9Bwity a upc:Event ; 
+    upc:timestamp "2023-06-01T15:00:42"^^xsd:dateTime ;
+    upc:licencePlate "00BST2" ;
+    upc:loadedWeight 60263;
+    upc:CAID "UTR-CM-503" .
+
+upc:Bxi29a a upc:Event ; 
+    upc:timestamp "2023-06-01T05:34:44"^^xsd:dateTime ;
+    upc:licencePlate "01BFZ3" ;
+    upc:loadedWeight 12630 ;
+    upc:CAID "UTR-CM-518" .
+
+upc:B9iz93 a upc:Event ; 
+    upc:timestamp "2023-06-01T05:07:46"^^xsd:dateTime ;
+    upc:licencePlate "00BBF8" ;
+    upc:loadedWeight 32630 ;
+    upc:CAID "UTR-CM-536" .
+
+upc:Bhiw2l a upc:Event ; 
+    upc:timestamp "2023-06-01T05:20:45"^^xsd:dateTime ;
+    upc:licencePlate "00BBV8" ;
+    upc:loadedWeight 42631 ;
+    upc:CAID "UTR-CM-541" .
+
+upc:sBziiq a upc:Event ; 
+    upc:timestamp "2023-06-01T05:27:49"^^xsd:dateTime ;
+    upc:licencePlate "00BFP8" ;
+    upc:loadedWeight 12263 ;
+    upc:CAID "UTR-CM-543" .
+
+upc:Bhiha5 a upc:Event ; 
+    upc:timestamp "2023-06-01T05:14:40"^^xsd:dateTime ;
+    upc:licencePlate "00BHK3" ;
+    upc:loadedWeight 42630 ;
+    upc:CAID "UTR-CM-542" .
+
+upc:5Bhi47 a upc:Event ; 
+    upc:timestamp "2023-06-01T05:01:41"^^xsd:dateTime ;
+    upc:licencePlate "00BJZ6" ;
+    upc:loadedWeight 54263 ;
+    upc:CAID "UTR-CM-576" .
+
+upc:5Briy5 a upc:Event ; 
+    upc:timestamp "2023-06-01T05:47:42"^^xsd:dateTime ;
+    upc:licencePlate "00BLN2" ;
+    upc:loadedWeight 39263 ;
+    upc:CAID "UTR-CM-506" .
+
+upc:Blis0r a upc:Event ; 
+    upc:timestamp "2023-06-01T05:34:43"^^xsd:dateTime ;
+    upc:licencePlate "00BNN3" ;
+    upc:loadedWeight 42630 ;
+    upc:CAID "UTR-CM-506" .
+
+upc:zBwit5 a upc:Event ; 
+    upc:timestamp "2023-06-01T05:21:44"^^xsd:dateTime ;
+    upc:licencePlate "00BRL2" ;
+    upc:loadedWeight 42263 ;
+    upc:CAID "UTR-CM-512" .
+
+upc:9Bsirh a upc:Event ; 
+    upc:timestamp "2023-06-01T05:07:45"^^xsd:dateTime ;
+    upc:licencePlate "00BSK8" ;
+    upc:loadedWeight 10263 ;
+    upc:CAID "UTR-CM-511" .
