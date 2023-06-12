@@ -5,7 +5,6 @@
 ## Challenge description:
 Due to (1) the increasing number of inhabitants in city centres, (2) the growing need for transport related to e-
 commerce and (3) a rising number of restrictions such as environmental zones, there is an increasing amount of
-
 pressure on logistics management within cities. This also applies to the municipality of Utrecht, with an
 important addition being the vulnerable historic city centre and underground with wharf cellars, which do not
 allow heavy traffic (> 2 tonnes). One initiative that could help managing these assets, is an intelligent accessibility
